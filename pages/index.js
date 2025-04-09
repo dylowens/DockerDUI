@@ -30,6 +30,7 @@ export default function Home() {
         input:focus {
           border-color: #3182ce;
           background-color: white;
+
         }
         button {
           background-color: #3182ce;
